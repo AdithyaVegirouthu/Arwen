@@ -1,0 +1,18 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# Reports generated during execution
+allure-results/
+allure-report/
+
+# Logs
+*.log
