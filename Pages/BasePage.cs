@@ -6,7 +6,7 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Appium.Android;
 using OpenQA.Selenium.Support.UI;
 using System.Diagnostics;
-//Git
+//Basepage
 namespace ArwenAutomation.Pages
 {
     public class BasePage

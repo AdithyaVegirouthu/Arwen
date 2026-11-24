@@ -2,7 +2,7 @@
 using ArwenAutomation.Support;
 using OpenQA.Selenium.Appium.Android;
 using Reqnroll;
-
+//Hooks
 namespace ArwenAutomation.Hooks
 {
     [Binding]
@@ -14,7 +14,7 @@ namespace ArwenAutomation.Hooks
         {
             this.scenarioContext = scenarioContext;
         }
-        //Git 
+        
 
         [BeforeScenario]
         public void BeforeScenario()
